@@ -1,5 +1,3 @@
-
-
 git clone ssh://aur@aur.archlinux.org/thrive-bin.git || exit 1
 
 cp PKGBUILD thrive-bin
