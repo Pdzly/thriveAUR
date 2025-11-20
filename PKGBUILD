@@ -1,10 +1,11 @@
 # Maintainer: Rooki  <aur at rooki dot xyz>
+# Contributor: Fabio 'Lolix' Loli <fabio.loli@disroot.org> -> https://github.com/FabioLolix
 # Contributor: Eric Engestrom <aur [at] engestrom [dot] ch>
 # Contributor: Sebastien Duthil
 
 pkgname=thrive-bin
 pkgver=0.9.0.1
-pkgrel=3
+pkgrel=4
 pkgdesc="Game about evolution, in which the player guides a species from their origin as a microbe to the space age and beyond."
 arch=(x86_64)
 url="https://revolutionarygamesstudio.com"
